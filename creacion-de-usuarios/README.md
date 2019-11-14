@@ -13,11 +13,11 @@ description: >-
 {% tab title="Agregar usuario" %}
 **1.Inicie sesión:** Loguéate con el usuario de administrador.
 
-![](../.gitbook/assets/image%20%28207%29.png)
+![](../.gitbook/assets/image%20%28218%29.png)
 
 **2. Selecciona la entidad:** Da clic en el botón "entidades" ubicado en el panel superior.
 
-![](../.gitbook/assets/image%20%28172%29.png)
+![](../.gitbook/assets/image%20%28182%29.png)
 
 **4. Elige una entidad:** Da clic en el icono de la "Entidad".
 
@@ -29,11 +29,11 @@ description: >-
 
 **6.Adiciona un miembro:**  Da clic en el botón ![](../.gitbook/assets/agregar-miembro.png), ubícate en el campo "Usuario existente" y digita el nombre de usuario que vas a vincular a la organización :
 
-![](../.gitbook/assets/image%20%2885%29.png)
+![](../.gitbook/assets/image%20%2889%29.png)
 
 **7. Asigna un rol:** Despliega la lista "Rol" da clic en uno de los roles dispuestos y luego da clic en "Agregar Miembro" ![](../.gitbook/assets/agregar-miembro%20%281%29.png) 
 
-![](../.gitbook/assets/image%20%28156%29.png)
+![](../.gitbook/assets/image%20%28164%29.png)
 
 {% hint style="info" %}
 _**Tipo de roles:**_
@@ -47,11 +47,11 @@ _**Tipo de roles:**_
 {% tab title="Consultar usuarios" %}
 **1.Ingresa a opciones de administrador:** Ubícate en la parte superior de la pantalla y da clic sobre el botón ![](../.gitbook/assets/administrar.PNG) 
 
-![](../.gitbook/assets/image%20%28170%29.png)
+![](../.gitbook/assets/image%20%28179%29.png)
 
 **2.Selecciona el usuario administrador:** Da clic sobre el nombre del usuario administrador.
 
-![](../.gitbook/assets/image%20%28112%29.png)
+![](../.gitbook/assets/image%20%28116%29.png)
 
 **3.Ingresa a usuarios:** Ubícate en la parte superior izquierda de la pantalla, busca la miga de pan y da clic en Usuarios.
 
@@ -59,7 +59,7 @@ _**Tipo de roles:**_
 
 **4.Consulta los usuarios:** Visualiza los usuarios que actualmente se encuentran activos en la plataforma Distrital de datos abiertos.
 
-![](../.gitbook/assets/image%20%28185%29.png)
+![](../.gitbook/assets/image%20%28196%29.png)
 {% endtab %}
 {% endtabs %}
 

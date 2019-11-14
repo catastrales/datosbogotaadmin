@@ -17,7 +17,7 @@ description: >-
 
 **2. Crea una nueva temática:** Da clic en el botón "Agregar temáticas"
 
-![](.gitbook/assets/image%20%28181%29.png)
+![](.gitbook/assets/image%20%28192%29.png)
 
 
 
@@ -33,9 +33,9 @@ description: >-
   * El botón **"SUBIR",** permite incluir una imagen que tengamos guardada en el computador.
   * El botón **""ENLACE",** permite incluir una dirección URL con la imagen que se quiere adjuntar.
 
-![](.gitbook/assets/image%20%2832%29.png)
+![](.gitbook/assets/image%20%2834%29.png)
 
 **4. Visualiza el grupo:** Accede desde la página de inicio de[ Datos abiertos](http://datosabiertos.bogota.gov.co/) al grupo que has creado.
 
-![](.gitbook/assets/image%20%2822%29.png)
+![](.gitbook/assets/image%20%2823%29.png)
 
