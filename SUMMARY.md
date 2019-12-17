@@ -12,5 +12,6 @@
   * [Editar tu perfil](configuracion-de-la-plataforma/editar-opciones.md)
 * [Harvester](harvester.md)
 * [Limpiar archivos temporales](limpiar-archivos-temporales.md)
-* [Reportes con API's en CKAN](uso-de-apis-en-ckan.md)
+* [Reportes con API's en CKAN](uso-de-apis-en-ckan/README.md)
+  * [Descargando directamente de la API](uso-de-apis-en-ckan/descargando-directamente-de-la-api.md)
 

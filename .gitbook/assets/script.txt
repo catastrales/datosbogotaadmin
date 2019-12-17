@@ -1,0 +1,32 @@
+#!/usr/local/bin/python2.7
+# -*- coding: utf-8 -*-
+from ckanapi import RemoteCKAN, NotAuthorized
+import pdb
+import codecs
+ua = 'ckanapi/1.0 (+http://datosabiertos.bogota.gov.co)'
+
+name = raw_input("Ingrese el nombre del archivo: ")
+client = RemoteCKAN('https://datosabiertos.bogota.gov.co', apikey='be8d0981-67c1-4a02-ad42-7fcd4684c7c6', user_agent=ua)
+try:
+    with codecs.open(name, 'wb', encoding='utf8') as f:
+        pkg = client.action.package_list()
+        organizations = client.action.organization_list()
+        f.write("%s| %s| %s| %s| %s| %s| %s| %s %s\n" % ("dato","entidad","descargas","visitas","creacion","actualizacion", "licencia","tematica","forma_presentacion"))
+        for p in pkg:
+            print "Exportando %s" % (p)
+            p_info = client.action.package_show(id=p, include_tracking=True)
+            categoria="NA"
+            if p_info['groups']:
+              categoria=p_info['groups'][0]['display_name']
+            if 'resources' in p_info and p_info['resources']:
+              downloads=0
+              for resource in p_info['resources']:
+                downloads+=resource['tracking_summary']['total']
+              visits=p_info['tracking_summary']['total']
+              updated= p_info['inf_citation_date'] if 'inf_citation_date' in p_info else ''
+              #pdb.set_trace()
+              #f.write("%s| %s| %s| %s| %s| %s| %s| %s" % (p_info['title'], p_info['organization']['title'], downloads,visits, p_info['metadata_created'], updated, p_info["license_title"], categoria))
+              presentacion =  p_info['idnt_presentation_type'][0] if p_info['idnt_presentation_type'] else 'NA'
+              f.write("%s| %s| %s| %s| %s| %s| %s| %s | %s\n" % (p_info['title'], p_info['organization']['title'], downloads,visits, p_info['metadata_created'], updated, p_info["license_title"], categoria, presentacion))
+except NotAuthorized:
+    print('denied')
