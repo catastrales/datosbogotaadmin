@@ -19,7 +19,7 @@ description: >-
 4. **Ejecutar PIP**: pip.exe install ..\ckanapi-3.0.tar.gz
 {% endtab %}
 
-{% tab title="Ejecutar reporte" %}
+{% tab title="Verificar script" %}
 1. **Verificar script:** Dejar en ****C:\Python27\ArcGIS10.5\ el script "estadisticas".py
 
 {% file src="../.gitbook/assets/script.txt" %}
