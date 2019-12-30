@@ -44,8 +44,14 @@ description: >-
 ![](../.gitbook/assets/image%20%282%29.png)
 
 {% hint style="warning" %}
-Tenga en cuenta: El archivo .CSV quedará en el escritorio
+**Tenga en cuenta:** El archivo .CSV quedará en el escritorio. Espere hasta que finalice.
 {% endhint %}
+
+   3. **Convierte de CSV a XLS:** Abre un nuevo documento en excel, da clic en la pestaña "datos" , luego da clic en el botón "Desde el texto/CSV", selecciona el archivo y da clic en "Abrir".
+
+En el campo "origen de archivo" deja "ninguno", en delimitador "personalizado" y coloca en el campo inferior el pipe "\|". Luego clic en "CARGAR"
+
+![](../.gitbook/assets/image%20%28220%29.png)
 {% endtab %}
 {% endtabs %}
 

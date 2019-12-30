@@ -13,7 +13,7 @@ description: >-
 {% tab title="Agregar usuario" %}
 **1.Inicie sesión:** Loguéate con el usuario de administrador.
 
-![](../.gitbook/assets/image%20%28220%29.png)
+![](../.gitbook/assets/image%20%28221%29.png)
 
 **2. Selecciona la entidad:** Da clic en el botón "entidades" ubicado en el panel superior.
 
