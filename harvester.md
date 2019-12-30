@@ -10,35 +10,35 @@ description: >-
 
 **2.inicia sesión:** digita tu usuario y contraseña de administrador dando clic en la opción _**"Inicio de sesión para entidades"**_
 
-![](.gitbook/assets/image%20%2825%29.png)
+![](.gitbook/assets/image%20%2826%29.png)
 
 **3.Ingresa al harvest de ckan:** digita la URL de la plataforma de datos abiertos abiertos Bogotá, seguido de _**/harvest.**_ Deberá quedar de esta forma.
 
-![](.gitbook/assets/image%20%28128%29.png)
+![](.gitbook/assets/image%20%28129%29.png)
 
 **4.Alista la URL a cosechar:** la URL irá hasta la extensión de dominio Ej: \(.GOV.CO - .COM\), luego digita "/data.json"
 
-![](.gitbook/assets/image%20%2819%29.png)
+![](.gitbook/assets/image%20%2820%29.png)
 
 **5.Agrega una nueva fuente:** Da clic en el botón _"agregar nueva fuente"_
 
-![](.gitbook/assets/image%20%28181%29.png)
+![](.gitbook/assets/image%20%28183%29.png)
 
 **6. Pegar URL:** Copia la "_**URL"**_ que alistaste en el punto 4.
 
-![](.gitbook/assets/image%20%2882%29.png)
+![](.gitbook/assets/image%20%2883%29.png)
 
 **7.Asigna nombre al harvest:** Asigna un nombre a la cosecha de datos que vas a realizar con la entidad. Por favor colocar el nombre de la entidad con la que se va a realizar el harvest.
 
-![](.gitbook/assets/image%20%28153%29.png)
+![](.gitbook/assets/image%20%28155%29.png)
 
 **8.Descripción del harvest:** La descripción debe contener el nombre de la entidad con la entidad que se va a cosechar, plataforma con la que se va conectar. Ej: CKAN, ArcGIS hub.
 
-![](.gitbook/assets/image%20%2838%29.png)
+![](.gitbook/assets/image%20%2839%29.png)
 
 **9. Elige tipo de fuente:** selecciona el tipo de fuente conforme al tipo de plataforma.
 
-![](.gitbook/assets/image%20%28174%29.png)
+![](.gitbook/assets/image%20%28176%29.png)
 
 {% hint style="warning" %}
 Tenga en cuenta: Si la plataforma a cosechar es CKAN, selecciona la opción **"CKAN"**. Si la plataforma a cosechar es ArcGIS hub selecciona **"DCAT JSON harvester".**
@@ -46,15 +46,15 @@ Tenga en cuenta: Si la plataforma a cosechar es CKAN, selecciona la opción **"C
 
 **10. Frecuencia de cosecha:** la cosecha de datos desde otras plataformas se pueden programar con una frecuencia de actualización o hacerla manualmente.
 
-![](.gitbook/assets/image%20%28189%29.png)
+![](.gitbook/assets/image%20%28191%29.png)
 
 **11. Guarda los cambios:** en la opción configuración deja la caja de texto en blanco, luego selecciona la organización con la cual vas a cosechar y da clic en "Guardar".
 
-![](.gitbook/assets/image%20%28124%29.png)
+![](.gitbook/assets/image%20%28125%29.png)
 
 **12. Ejecuta el harvest\(cosecha\):** da clic sobre la opción Reharvest
 
-![](.gitbook/assets/image%20%28155%29.png)
+![](.gitbook/assets/image%20%28157%29.png)
 
 {% hint style="info" %}
 Este proceso puede tomar algunos minutos dependiendo del número de datos que se quiera cosechar.

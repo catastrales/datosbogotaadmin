@@ -16,21 +16,36 @@ description: >-
 
 3**. Acceder al script:** Pasarse a C:\Python27\ArcGIS10.5\Scripts cd C:\Python27\ArcGIS10.5\Scripts 
 
-4. Ejecutar PIP así: pip.exe install ..\ckanapi-3.0.tar.gz
+4. **Ejecutar PIP**: pip.exe install ..\ckanapi-3.0.tar.gz
 {% endtab %}
 
-{% tab title="Generar Reporte" %}
-1. **Verificar script:** Dejar en ****C:\Python27\ArcGIS10.5\ el script estadisticas.py
+{% tab title="Ejecutar reporte" %}
+1. **Verificar script:** Dejar en ****C:\Python27\ArcGIS10.5\ el script "estadisticas".py
 
 {% file src="../.gitbook/assets/script.txt" %}
 
-{% hint style="info" %}
+{% hint style="success" %}
 **Nota:** Por favor cambie la extensión de este archivo a _.py_ y el nombre a "_estadisticas_"
 {% endhint %}
 
-1. **Ejecutar .bat:** Cambiar la extensión del siguiente archivo a ".bat", el mismo se puede dejar en cualquier ubicación del explorador de archivos.
+**2. Ejecutar .bat:** Cambiar la extensión del siguiente archivo a ".bat", el mismo se puede dejar en cualquier ubicación del explorador de archivos.
 
 {% file src="../.gitbook/assets/bat.txt" %}
+
+{% hint style="success" %}
+**Nota:** Por favor cambie la extensión de este archivo a _.bat_  y el nombre a "_reporte_"
+{% endhint %}
+{% endtab %}
+
+{% tab title="Generar reporte" %}
+1. **Ejecutar archivo .bat:** Ingrese al archivo reporte.bat, dando doble clic.
+2. **Pongale nombre al archivo:** Se abrirá una ventana "Comando de líneas" y este le pedirá que le asigne un nombre al archivo seguido de la extensión .CSV. _**Ej: ReporteDic.csv**_
+
+![](../.gitbook/assets/image%20%282%29.png)
+
+{% hint style="warning" %}
+Tenga en cuenta: El archivo .CSV quedará en el escritorio
+{% endhint %}
 {% endtab %}
 {% endtabs %}
 
