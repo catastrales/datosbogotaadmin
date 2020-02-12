@@ -14,9 +14,23 @@ description: >-
 
 2**. Ejecutar CMD:** Ir al command line del sistema.
 
-3**. Acceder al script:** Pasarse a C:\Python27\ArcGIS10.5\Scripts cd C:\Python27\ArcGIS10.5\Scripts 
+3**. Acceder a la API:** Ubicarse en  la carpeta donde esté ArcGIS10.6
 
-4. **Ejecutar PIP**: pip.exe install ..\ckanapi-3.0.tar.gz
+C:\Python27\ArcGIS10.6&gt;  
+
+**ejecutando este comando** cd C:\Python27\ArcGIS10.6
+
+Desde el archivo raíz 
+
+4. **Ejecutar PIP**: pip.exe install ..\ckanapi-3.0.tar.gz 
+
+ejecutando este comando 
+
+C:\Python27\ArcGIS10.6&gt;**Scripts\pip.exe install ckanapi-3.0.tar.gz**
+
+{% hint style="success" %}
+Este permite ejecutar la API y poder obtener la información de los datos.
+{% endhint %}
 {% endtab %}
 
 {% tab title="Verificar script" %}
@@ -24,7 +38,7 @@ description: >-
 
 {% file src="../.gitbook/assets/script.txt" %}
 
-{% hint style="success" %}
+{% hint style="warning" %}
 **Nota:** Por favor cambie la extensión de este archivo a _.py_ y el nombre a "_estadisticas_"
 {% endhint %}
 
@@ -54,18 +68,6 @@ En el campo "origen de archivo" deja "ninguno", en delimitador "personalizado" y
 ![](../.gitbook/assets/image%20%28220%29.png)
 {% endtab %}
 {% endtabs %}
-
-
-
-2- Ejecución del programa stats\_datos.py: 2.1- Estando en el command line del sistema. 2.2- Pasarse a C:\Python27\ArcGIS10.5 cd C:\Python27\ArcGIS10.5 2.3- Cambiar el código de páginas de salida del sistema, el cual por defecto está en Mulitlingual Latin I \*\(850\) a West European Latin CHCP 1252 2.4- Verificar código de páginas, con el comando CHCP CHCP 2.5- Copiar el programa stat\_datos.txt o cualquier variante de python en C:\Python27\ArcGIS10.5 como stat\_datos.py 2.6- Ejecutar el programa, con python.exe con parámetros: el programa y el archivo csv de salida, así: python.exe stat\_datos.py &gt; opendata.csv
-
-**Luego los pasos de la reunión del 17 de diciembre con Oscar Ardila**
-
-C:\Python27\ArcGIS10.5
-
-{% file src="../.gitbook/assets/script.txt" %}
-
-{% file src="../.gitbook/assets/bat.txt" %}
 
 
 
