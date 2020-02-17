@@ -6,6 +6,16 @@ description: >-
 
 # Harvester
 
+{% tabs %}
+{% tab title="Alistamiento" %}
+**1.Verificar ambiente producción:** Revisar que en el ambiente producción no se dupliquen los datos con los datos procedentes de la plataforma a migrar.
+
+**2. Cambiar visibilidad a "privado":** Si existen datos que se vayan a duplicar en las dos plataformas, cambiar el estado de los datos a "privado". Recuerde: de aquellos datos que puedan quedar duplicados.
+
+3. Ejecutar harvest: Siga los pasos 
+{% endtab %}
+
+{% tab title="Producción" %}
 **1.Verificar configuración en servidor:** asegúrate que los servicios Harvester Gather\_Consumer y Fetch\_Consumer están activos en el servidor del CKAN.
 
 **2.inicia sesión:** digita tu usuario y contraseña de administrador dando clic en la opción _**"Inicio de sesión para entidades"**_
@@ -63,4 +73,6 @@ Este proceso puede tomar algunos minutos dependiendo del número de datos que se
 **13. Verificar reporte de cargue:** Cuando los datos fueron cargados exitosamente, el estado del reporte muestra el mensaje "Finished" y en la sección _Error Summary_ presenta en mensaje "**No errors for this job**".
 
 ![](.gitbook/assets/image%20%2822%29.png)
+{% endtab %}
+{% endtabs %}
 
