@@ -12,7 +12,7 @@ Deberá estar logueado en la plataforma de datos abiertos y tener asignado el ro
 
 **1.Ingresa a Opciones de Administrador:** Da clic en el botón "Administrar" ubicado en la parte superior izquierda de la ventana.
 
-![](.gitbook/assets/image%20%28183%29.png)
+![](.gitbook/assets/image%20%28185%29.png)
 
  **2.Ingresa a la Papelera:** Da clic en la pestaña "Papelera".
 
@@ -24,5 +24,5 @@ Deberá estar logueado en la plataforma de datos abiertos y tener asignado el ro
 
 **4.Purga los archivos:** Da clic en el botón ****![](.gitbook/assets/purga.PNG)
 
-![](.gitbook/assets/image%20%28202%29.png)
+![](.gitbook/assets/image%20%28204%29.png)
 

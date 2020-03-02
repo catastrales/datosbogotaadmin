@@ -13,11 +13,11 @@ description: >-
 {% tab title="Agregar usuario" %}
 **1.Inicie sesión:** Loguéate con el usuario de administrador.
 
-![](../.gitbook/assets/image%20%28223%29.png)
+![](../.gitbook/assets/image%20%28225%29.png)
 
 **2. Selecciona la entidad:** Da clic en el botón "entidades" ubicado en el panel superior.
 
-![](../.gitbook/assets/image%20%28186%29.png)
+![](../.gitbook/assets/image%20%28188%29.png)
 
 **4. Elige una entidad:** Da clic en el icono de la "Entidad".
 
@@ -33,7 +33,7 @@ description: >-
 
 **7. Asigna un rol:** Despliega la lista "Rol" da clic en uno de los roles dispuestos y luego da clic en "Agregar Miembro" ![](../.gitbook/assets/agregar-miembro%20%281%29.png) 
 
-![](../.gitbook/assets/image%20%28168%29.png)
+![](../.gitbook/assets/image%20%28170%29.png)
 
 {% hint style="info" %}
 _**Tipo de roles:**_
@@ -47,11 +47,11 @@ _**Tipo de roles:**_
 {% tab title="Consultar usuarios" %}
 **1.Ingresa a opciones de administrador:** Ubícate en la parte superior de la pantalla y da clic sobre el botón ![](../.gitbook/assets/administrar.PNG) 
 
-![](../.gitbook/assets/image%20%28183%29.png)
+![](../.gitbook/assets/image%20%28185%29.png)
 
 **2.Selecciona el usuario administrador:** Da clic sobre el nombre del usuario administrador.
 
-![](../.gitbook/assets/image%20%28119%29.png)
+![](../.gitbook/assets/image%20%28120%29.png)
 
 **3.Ingresa a usuarios:** Ubícate en la parte superior izquierda de la pantalla, busca la miga de pan y da clic en Usuarios.
 
@@ -59,7 +59,7 @@ _**Tipo de roles:**_
 
 **4.Consulta los usuarios:** Visualiza los usuarios que actualmente se encuentran activos en la plataforma Distrital de datos abiertos.
 
-![](../.gitbook/assets/image%20%28200%29.png)
+![](../.gitbook/assets/image%20%28202%29.png)
 {% endtab %}
 {% endtabs %}
 

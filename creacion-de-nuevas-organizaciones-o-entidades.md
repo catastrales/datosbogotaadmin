@@ -12,7 +12,7 @@ description: >-
 
 **1.Ingresar a Entidades:** Da clic en el botón "Entidades" ubicado en el panel superior.
 
-![](.gitbook/assets/image%20%28186%29.png)
+![](.gitbook/assets/image%20%28188%29.png)
 
 **2. Crea una nueva Entidad:** Da clic en el botón "Crear Entidad".
 
@@ -30,23 +30,23 @@ description: >-
   * El botón **"SUBIR",** permite incluir una imagen que tengamos guardada en el computador.
   * El botón **""ENLACE",** permite incluir una dirección URL con la imagen que se quiere adjuntar.
 
-![](.gitbook/assets/image%20%28169%29.png)
+![](.gitbook/assets/image%20%28171%29.png)
 
 * **Dependencia:** nombre de la dependencia a la cual pertenece el funcionario vinculado a la entidad.
 
-![](.gitbook/assets/image%20%28147%29.png)
+![](.gitbook/assets/image%20%28149%29.png)
 
 * **Nombre del responsable:** nombre del funcionario responsable de publicar datos en la entidad.
 
-![](.gitbook/assets/image%20%28216%29.png)
+![](.gitbook/assets/image%20%28218%29.png)
 
 * **Dirección de correo electrónico:** correo electronico del funcionario responsable de publicar datos en la entidad.
 
-![](.gitbook/assets/image%20%28176%29.png)
+![](.gitbook/assets/image%20%28178%29.png)
 
 * **Teléfono:** número telefónico del funcionario responsable de publicar los datos.
 
-![](.gitbook/assets/image%20%28137%29.png)
+![](.gitbook/assets/image%20%28138%29.png)
 
 * **Dirección:** Dirección física de la entidad.
 
@@ -62,9 +62,9 @@ description: >-
 
 **Guardar la entidad:** Da clic en "Guardar entidad".
 
-![](.gitbook/assets/image%20%28128%29.png)
+![](.gitbook/assets/image%20%28129%29.png)
 
 **4. Visualiza la Entidad \(organización\):** Desde la página principal de [Datos abiertos](http://datosabiertos.bogota.gov.co/), da clic en el botón "Entidades" y ubica la organización o entidad por el logo o nombre que usaste para crearla.
 
-![](.gitbook/assets/image%20%28148%29.png)
+![](.gitbook/assets/image%20%28150%29.png)
 

@@ -12,7 +12,7 @@ http://datosabiertos.bogota.gov.co/api/3/action/group_list) |
 
 **2.Convierta el JSON:** Seleccione el texto que aparece en el navegador, de clic derecho copie y peque en la URL: [https://json-csv.com/](https://json-csv.com/)
 
-![](../.gitbook/assets/image%20%28203%29.png)
+![](../.gitbook/assets/image%20%28205%29.png)
 
 {% hint style="warning" %}
 **Tenga en cuenta:** [https://json-csv.com/](https://json-csv.com/) es una de las muchas herramientas que se encuentran en internet, que permiten convertir de formato JSON a CSV. Puede ser este o cualquier otro.

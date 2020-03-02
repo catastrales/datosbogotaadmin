@@ -8,11 +8,11 @@ description: >-
 
 **1.Ingresa a editar:** Da clic en el botón ubicado en el panel de tareas ubicado en la parte superior de la ventana.
 
-![](../.gitbook/assets/image%20%28195%29.png)
+![](../.gitbook/assets/image%20%28197%29.png)
 
 **2.Ingresa a administrar:** Da clic en el botón administrar ubicado en la parte superior derecha del panel.
 
-![](../.gitbook/assets/image%20%28154%29.png)
+![](../.gitbook/assets/image%20%28156%29.png)
 
 **3. Edita tus datos:** En este formulario podrás cambiar tu contraseña, digita tu clave actual, luego digita la clave nueva y digita por segunda vez la contraseña para confirmar.
 

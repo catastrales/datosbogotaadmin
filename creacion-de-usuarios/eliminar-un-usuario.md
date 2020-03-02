@@ -6,7 +6,7 @@ description: Elimina los usuarios que se encuentran asignados a una organizació
 
 **1. Selecciona la opción entidad:** Da clic en el botón "Entidades" ubicado en el panel superior.
 
-![](../.gitbook/assets/image%20%28186%29.png)
+![](../.gitbook/assets/image%20%28188%29.png)
 
 **2. Elige una entidad:** Da clic en el icono de la "Entidad".
 

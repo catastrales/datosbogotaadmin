@@ -65,7 +65,7 @@ Este permite ejecutar la API y poder obtener la información de los datos.
 
 En el campo "origen de archivo" deja "ninguno", en delimitador "personalizado" y coloca en el campo inferior el pipe "\|". Luego clic en "CARGAR"
 
-![](../.gitbook/assets/image%20%28222%29.png)
+![](../.gitbook/assets/image%20%28224%29.png)
 {% endtab %}
 {% endtabs %}
 

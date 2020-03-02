@@ -17,7 +17,7 @@ description: >-
 
 **2. Crea una nueva temática:** Da clic en el botón "Agregar temáticas"
 
-![](.gitbook/assets/image%20%28196%29.png)
+![](.gitbook/assets/image%20%28198%29.png)
 
 
 
