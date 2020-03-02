@@ -10,9 +10,13 @@ description: >-
 {% tab title="Alistamiento" %}
 **1.Verificar ambiente producción:** Revisar que en el ambiente producción no se dupliquen los datos con los datos procedentes de la plataforma a migrar.
 
-**2. Cambiar visibilidad a "privado":** Si existen datos que se vayan a duplicar en las dos plataformas, cambiar el estado de los datos a "privado". Recuerde: de aquellos datos que puedan quedar duplicados.
+**2. Cambiar visibilidad a "privado":** Si existen datos que se vayan a duplicar en las dos plataformas, cambiar el estado de los datos a "privado". 
 
-3. Ejecutar harvest: Siga los pasos 
+{% hint style="danger" %}
+**Nota:** Recuerde dejar en "privado" aquellos datos que puedan quedar duplicados.
+{% endhint %}
+
+**3. Realizar pruebas:** En ambiente de pruebas verifique que al ejecutar el proceso de harvesting no genere errores. Para ejecutar el _**harvest**_ siga los pasos de la siguiente pestaña _"producción"_.
 {% endtab %}
 
 {% tab title="Producción" %}
